@@ -1,7 +1,6 @@
 # hey, i'm sebi :)
 
 ### some things i like:
-- 🐘
 - 🍕
 - ♥️
 
