@@ -1,9 +1,10 @@
 # hey, i'm sebi :)
 
-### some things i like:
+### me
 - 🍕
 - ♥️
 - 🐧
+- D:
 
 <!--
 **SpyderScript/SpyderScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
